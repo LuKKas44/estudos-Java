@@ -1,5 +1,5 @@
 📚 Estudos de Java
-Repositório criado para documentar minha jornada aprendendo Java.
+- Repositório criado para documentar minha jornada aprendendo Java.
 
 🗂️ Organização
 
