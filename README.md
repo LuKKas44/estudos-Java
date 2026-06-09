@@ -6,3 +6,4 @@
 - if-else + Exercícios com if-else
 - loops + Exercícios com for, while e do-while
 - ternario + Exercícios com expressão condicional ternária
+- escopo e inicialização
